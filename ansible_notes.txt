@@ -1,0 +1,16 @@
+Copied from Python User Group hat tip. 
+
+Introduction to Ansible
+
+Please bring a laptop for this hands-on introduction to Ansible.
+
+In the course of this meetup you will each get to use Ansible to deploy Python code to a cluster of servers. We will use both playbooks (YAML files) and ad-hoc commands to accomplish this and other interesting things, like:
+
+View recent logs from each server
+Restart each server
+Install a cron job on each server
+Install python modules on each server
+
+Ansible claims "Simple, agentless IT automation that anyone can use". I have used it on production gigs to deploy software on and generally troubleshoot a gaggle of raspberry pis. To me it's considerably simpler than either Puppet or Chef, and it has support for all the things I've needed: Install via apt, install via npm, copy files, create symlinks, read logs, restart servers, restart processes, set up cron jobs, etc.
+
+For more info see the Ansible Docs: https://docs.ansible.com/ansible/latest/index.html
