@@ -10,3 +10,11 @@ https://www.andrew.cmu.edu/course/15-381-f09/slides/Lecture8-Planning09.pdf
 
 Lex Fridman Videos exploring research topics in artificial intelligence, deep learning, autonomous vehicles, and beyond.
 https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA
+
+
+Containers and Virtual Instances: 
+Elastic Search
+https://www.elastic.co/
+
+Ansible: agentless IT automation
+https://www.ansible.com/
