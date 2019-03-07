@@ -1,5 +1,11 @@
 # AI-Machine-Learning-Links
 
+#Tensorflow Dev Summit 2019
+https://www.tensorflow.org/dev-summit
+
+Algorithm Design Slides
+https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+
 
 15-381: AI
 Classical Deterministic Planning –
