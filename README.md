@@ -5,6 +5,7 @@ https://www.tensorflow.org/dev-summit
 
 Algorithm Design Slides
 https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+You can also $ wget -r https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
 
 
 15-381: AI
